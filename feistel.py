@@ -1,3 +1,6 @@
+#Feistel cipher
+#Шифр Фейстеля
+
 import binascii
 
 
